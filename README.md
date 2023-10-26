@@ -194,6 +194,5 @@ Repo:
 GitHub repository: Fix_My_Code_Challenge
 Directory: 0x00-challenge
 File: 4-delete_dnodeint/
- 
-Copyright © 2023 ALX, All rights reserved.
+
 # Fix-my-code-0
