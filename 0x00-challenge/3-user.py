@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """
- User Model
+ User Model to return True when password is correct
 """
 import hashlib
 import uuid
